@@ -1,7 +1,7 @@
 # IBM-Project-20190-1659714316
 AI-based localization and classification of skin disease with erythema
 
-TEAM NAME:
+TEAM MEMBERS NAMES:
 
 TEAM LEAD - PASUPULETI BASKARAN LAKSHMIDEVI
 
